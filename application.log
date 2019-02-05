@@ -1,0 +1,32 @@
+2019-01-16 22:09:17,655  INFO [main] LoginOrangeHRMTest:32 - ******** Starting Login Class Test Cases ***************
+2019-01-16 22:09:17,733  INFO [main] LoginOrangeHRMTest:40 - ******** Starting loginPageTitleTest Test Case ***************
+2019-01-16 22:09:17,733 DEBUG [main] LoginPage:33 - Getting the title of the page
+2019-01-16 22:09:17,749  INFO [main] LoginOrangeHRMTest:50 - ******** Ending loginPageTitleTest Test Case  ***************
+2019-01-16 22:09:17,749  INFO [main] LoginOrangeHRMTest:102 - ******** Finshed Executing the Test Case ***************
+2019-01-16 22:09:17,749  INFO [main] LoginOrangeHRMTest:32 - ******** Starting Login Class Test Cases ***************
+2019-01-16 22:09:17,749  INFO [main] LoginOrangeHRMTest:57 - ******** Starting loginPageLogoTest Test Case ***************
+2019-01-16 22:09:17,749 DEBUG [main] LoginPage:38 - checking if the user logo is displayed or not
+2019-01-16 22:09:17,983  INFO [main] LoginOrangeHRMTest:68 - ******** Ending loginPageLogoTest Test Case  ***************
+2019-01-16 22:09:17,983  INFO [main] LoginOrangeHRMTest:102 - ******** Finshed Executing the Test Case ***************
+2019-01-16 22:09:17,983  INFO [main] LoginOrangeHRMTest:32 - ******** Starting Login Class Test Cases ***************
+2019-01-16 22:09:17,983  INFO [main] LoginOrangeHRMTest:80 - ******** Starting verifyLoginfunctiont Test Case ***************
+2019-01-16 22:09:18,115 DEBUG [main] LoginPage:45 - User name is entered
+2019-01-16 22:09:18,237 DEBUG [main] LoginPage:47 - Password is entered
+2019-01-16 22:09:31,371 DEBUG [main] LoginPage:49 - submit button is clicked
+2019-01-16 22:09:31,614  INFO [main] LoginOrangeHRMTest:94 - ******** Ending verifyLoginfunctiont Test Case  ***************
+2019-01-16 22:09:31,621  INFO [main] LoginOrangeHRMTest:102 - ******** Finshed Executing the Test Case ***************
+2019-01-16 22:09:47,561  INFO [main] HomeOrangeCRMTest:31 - ******** Starting Adduser Test Cases ***************
+2019-01-16 22:09:47,705 DEBUG [main] LoginPage:45 - User name is entered
+2019-01-16 22:09:47,866 DEBUG [main] LoginPage:47 - Password is entered
+2019-01-16 22:09:53,967 DEBUG [main] LoginPage:49 - submit button is clicked
+2019-01-16 22:10:29,090  INFO [main] HomeOrangeCRMTest:63 - ******** Finshed Executing the Test Case ***************
+2019-01-16 22:10:32,551 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2019-01-16 22:10:32,551 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2019-01-16 22:10:32,551 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-01-16 22:10:32,551 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-01-16 22:10:32,551 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Murshi/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-01-16 22:10:32,925 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2019-01-16 22:10:32,925 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2019-01-16 22:10:32,925 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-01-16 22:10:32,925 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-01-16 22:10:32,925 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Murshi/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

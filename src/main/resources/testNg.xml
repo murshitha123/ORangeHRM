@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="OrangeHRMApplication Test Automation Test Suite" >
+
+	<listeners>
+		<listener class-name="com.hcl.orangeHRM.qa.ExtentReportListener.ExtentReporterNG" />
+	
+	</listeners>
+
+	
+	<test name="LoginPageTestMethods">
+		
+		<classes>
+			<class name="com.hcl.orangeHRM.qa.testcases.LoginOrangeHRMTest" />
+		</classes>
+	</test>
+	
+	<test name="HomePageTestMethods">
+		
+		<classes>
+			<class name="com.hcl.orangeHRM.qa.testcases.HomeOrangeCRMTest" />
+		</classes>
+	</test>
+</suite>
